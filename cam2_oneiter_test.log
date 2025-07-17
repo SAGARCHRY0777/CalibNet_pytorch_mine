@@ -1,0 +1,15 @@
+[DEBUG]:cam2_oneiter-Test, 2025-07-17 14:42:10,663, Namespace(config='config.yml', dataset_path='/home/deevia/Desktop/sagar/kitti/depth_kitti/data_depth_selection/depth_selection/val_selection_cropped', skip_frame=1, pcd_sample=4096, max_deg=10, max_tran=0.2, mag_randomly=True, batch_size=1, num_workers=4, pin_memory=True, device='cuda:0', pretrained='./checkpoint/cam2_oneiter_best.pth', log_dir='log/', checkpoint_dir='checkpoint/', res_dir='./results', name='cam2_oneiter', inner_iter=1, save_features=True, save_vectors=True, resize_ratio=[1.0, 1.0], scale=50.0)
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:42:28,717, [00001|00500], rot_err(deg): 1.5519, trans_err(m): 0.0245, mean_err: 0.0498
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:42:46,217, [00002|00500], rot_err(deg): 1.8763, trans_err(m): -0.0247, mean_err: 0.0590
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:43:03,700, [00003|00500], rot_err(deg): 1.4475, trans_err(m): -0.0382, mean_err: 0.0426
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:43:21,699, [00004|00500], rot_err(deg): 0.1241, trans_err(m): 0.0282, mean_err: 0.0364
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:43:39,632, [00005|00500], rot_err(deg): 4.0732, trans_err(m): -0.0077, mean_err: 0.0404
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:43:57,465, [00006|00500], rot_err(deg): 3.5905, trans_err(m): -0.0018, mean_err: 0.0364
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:44:15,547, [00007|00500], rot_err(deg): -1.0004, trans_err(m): -0.0030, mean_err: 0.0171
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:44:33,481, [00008|00500], rot_err(deg): -1.1096, trans_err(m): -0.0088, mean_err: 0.0590
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:44:51,463, [00009|00500], rot_err(deg): -3.1209, trans_err(m): -0.0204, mean_err: 0.0377
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:45:09,679, [00010|00500], rot_err(deg): 0.9392, trans_err(m): 0.0296, mean_err: 0.0549
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:45:27,779, [00011|00500], rot_err(deg): -1.9955, trans_err(m): -0.0483, mean_err: 0.0651
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:45:45,645, [00012|00500], rot_err(deg): 3.1936, trans_err(m): 0.0074, mean_err: 0.0994
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:46:03,211, [00013|00500], rot_err(deg): -0.0805, trans_err(m): -0.0308, mean_err: 0.0174
+[INFO]:cam2_oneiter-Test, 2025-07-17 14:46:21,527, [00014|00500], rot_err(deg): -7.1133, trans_err(m): 0.0083, mean_err: 0.0747
